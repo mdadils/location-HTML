@@ -1,0 +1,36 @@
+{
+    "category": "staff",
+    "type": "salesman",
+    "name": "ABC",
+    "dob": "2020-01-26T06:51:49.615Z",
+    "gender": "male",
+    "email": "abc@xyz.in",
+    "mobile": "8888888888",
+    "address": "Pune City",
+    "location": "Ammunition Factory Khadki ",
+    "area": "Pune City",
+    "city": "Pune",
+    "state": "MAHARASHTRA",
+    "country": "india",
+    "pincode": 411003,
+    "config": {
+      "target": 50000.5,
+      "achieved_target": 20000,
+      "current_month_target": 15000,
+      "current_month_achieved_target": 5000
+    },
+    "partydate": "2020-01-26T06:51:49.614Z",
+    "modified_date": "2020-01-26T06:51:49.614Z",
+    "date": "2020-01-26T06:51:49.614Z",
+    "status": "0",
+    "register_date": "2020-01-26T13:48:32.082Z",
+    "realm": "core",
+    "username": "357157094952691",
+    "emailVerified": true,
+    "id": "5e2d98b055ceb603f830dc65",
+    "imei": "357157094952691",
+    "login": {
+      "username": "357157094952691"
+    },
+    "marital_status": "married"
+  }

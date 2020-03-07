@@ -1,0 +1,15 @@
+Dear Candidate,
+
+Please complete following assignment and revert to this mail.
+
+Salesman Location Tracking Report with Google Map.
+
+Use attached JSON files for data - salesman, attendance, location tracking
+Create Data Table of Attendance
+Display Salesman Name instead of party_id (party_id and id from salesman are related to each other)
+Display Action Column at last of Data Table
+Add button in action column named "Show Details"
+After clicking on "Show Details" - display popup having google map with location markers.
+Create Private Github Repo and submit your code. Once done add "vilasshetkar" as collaborator.
+
+Host your code on Heroku and share heroku app url.
